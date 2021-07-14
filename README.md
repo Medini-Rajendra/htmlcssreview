@@ -16,12 +16,12 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://medini-rajendra.github.io/html_css_review/)
+[Live Demo Link](https://medini-rajendra.github.io/htmlcssreview/)
 
 ## Setup 
-- git clone https://github.com/Medini-Rajendra/html_css_review.git
+- git clone https://github.com/Medini-Rajendra/htmlcssreview.git
 - cd into the folder
-- git checkout reviewcode
+- git checkout workbranch
 - open `index.html` with live server
 
 ## Authors
